@@ -6,7 +6,7 @@ Aplicação simples de exemplo Usando o Horse(Delphi) com SimpleORM(Delphi) como
 
 # Horse
 
-https://github.com/HashLoad
+https://github.com/HashLoad/horse
 
 
 # Simple ORM
